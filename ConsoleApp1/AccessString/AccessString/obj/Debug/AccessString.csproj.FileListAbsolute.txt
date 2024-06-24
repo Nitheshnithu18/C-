@@ -1,0 +1,8 @@
+C:\C#\AccessString\AccessString\bin\Debug\AccessString.exe.config
+C:\C#\AccessString\AccessString\bin\Debug\AccessString.exe
+C:\C#\AccessString\AccessString\bin\Debug\AccessString.pdb
+C:\C#\AccessString\AccessString\obj\Debug\AccessString.csproj.AssemblyReference.cache
+C:\C#\AccessString\AccessString\obj\Debug\AccessString.csproj.SuggestedBindingRedirects.cache
+C:\C#\AccessString\AccessString\obj\Debug\AccessString.csproj.CoreCompileInputs.cache
+C:\C#\AccessString\AccessString\obj\Debug\AccessString.exe
+C:\C#\AccessString\AccessString\obj\Debug\AccessString.pdb
