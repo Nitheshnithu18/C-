@@ -1,0 +1,16 @@
+C:\C#\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\C#\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\C#\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\C#\Sorting\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\C#\Sorting\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
+C:\C#\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\C#\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\C#\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\C#\Task\Sorting\bin\Debug\Sorting.exe.config
+C:\C#\Task\Sorting\bin\Debug\Sorting.exe
+C:\C#\Task\Sorting\bin\Debug\Sorting.pdb
+C:\C#\Task\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\C#\Task\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
+C:\C#\Task\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\C#\Task\Sorting\obj\Debug\Sorting.exe
+C:\C#\Task\Sorting\obj\Debug\Sorting.pdb
